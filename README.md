@@ -1,2 +1,4 @@
 # HowToGeek
-this is a test reoi
+this is a test repo
+
+this is a test of checking the git
